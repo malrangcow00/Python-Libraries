@@ -12,4 +12,3 @@
 5. [Operations](/Pandas/05.Operations.ipynb)
 6. [Data-Input-and-Output](/Pandas/06.Data-Input-and-Output.ipynb)
 7. [Exercises](/Pandas/07.Exercises.ipynb)
-
